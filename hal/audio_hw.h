@@ -98,6 +98,8 @@ enum {
     USECASE_AUDIO_RECORD_MMAP,
     USECASE_AUDIO_RECORD_HIFI,
 
+    USECASE_AUDIO_RECORD_FM_VIRTUAL,
+
     /* Voice extension usecases
      *
      * Following usecase are specific to voice session names created by
