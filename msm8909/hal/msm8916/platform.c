@@ -611,7 +611,7 @@ static void update_codec_type(const char *snd_card_name) {
          !strncmp(snd_card_name, "msm8939-tomtom9330-snd-card",
                   sizeof("msm8939-tomtom9330-snd-card")) ||
          !strncmp(snd_card_name, "msm8x09-tasha9326-snd-card",
-                  sizeof("msm8x09-tasha9326-snd-card"))) ||
+                  sizeof("msm8x09-tasha9326-snd-card")) ||
          !strncmp(snd_card_name, "msm8976-tasha-snd-card",
                   sizeof("msm8976-tasha-snd-card")))
      {
