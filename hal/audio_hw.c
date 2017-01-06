@@ -638,7 +638,7 @@ int enable_snd_device(struct audio_device *adev,
         /*
          * For some unknown reason, the device name gets empty for
          * msm8960 devices. Because we're sure that the sound device is valid,
-         * copy it manually and apply the correct route. 
+         * copy it manually and apply the correct route.
         */
 
         if (strlen(device_name) == 0) {
@@ -1243,9 +1243,11 @@ int start_input_stream(struct stream_in *in)
     struct audio_usecase *uc_info;
     struct audio_device *adev = in->dev;
 
+#ifndef NO_CAPTURE_FM_MODE
     int usecase = platform_update_usecase_from_source(in->source,in->usecase);
     if (get_usecase_from_list(adev, usecase) == NULL)
         in->usecase = usecase;
+#endif
 
     ALOGD("%s: enter: stream(%p)usecase(%d: %s)",
           __func__, &in->stream, in->usecase, use_case_table[in->usecase]);
