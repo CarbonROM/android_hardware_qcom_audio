@@ -2305,8 +2305,6 @@ AudioPolicyManagerCustom::AudioPolicyManagerCustom(AudioPolicyClientInterface *c
       mHdmiAudioDisabled(false),
       mHdmiAudioEvent(false),
       mPrevPhoneState(0),
-      mPrevFMVolumeDb(0.0f),
-      mFMIsActive(false)
 {
 
 #ifdef USE_XML_AUDIO_POLICY_CONF
