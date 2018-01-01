@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 6BA3F93C 1514834864 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_hardware_qcom_audio\nnonce 1514834866-19F1CA69A9C9570E95C7A0987BA0420E1F2E140D\n\n0000000000000000000000000000000000000000 0b9ed0a7ac8c5dfc643465491ca3ce0a5d683b8c refs/for/cr-6.1-caf-8998%topic\u003dmata-qcom-bringup\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaSouwAAoJEGGzPpFro/k8n2IIAJ2wh8e0tA481rxfNfcefc3U\nU0ae6yBSq/DDY3wTLcAU+nIOSDyrGsdNKvrVgXZeuLT6Ozjuo1gGj011mWH6Tz9I\nqXKUyrP3wDMFe+MSIz1qoOpovIeWsdXFP26FG8aBmGDYZfYRt1t4bBBSZSqJ4aaT\nsq25jVEzdVPzwlBeHIMZuVR4Kvq0hjYCNp3yZLIaddPQ8ZL0c4ASa1a0nI/gAF99\nQ20tqNm5maGLzXo4s6ssU0o3+xlFgEBUXx76xQso5FGNqlvCQjpxIb8bF2ncLx4v\n0HE2qHIZPnPeTlJmccA6/tCjOMMfpSzP8Ir7+QOQz6kc+va9DnnBGlVwDE/Ayao\u003d\n\u003d/GnG\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
