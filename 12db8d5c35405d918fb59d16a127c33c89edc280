@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 97EF756201F32FFA7E0ACCB7C13F440B0F73DF8A 1526742774 -0400\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_hardware_qcom_audio\nnonce 1526742792-6396E53B738700480ED15B8418F6080A4AD3F582\n\na9ab354412a8d930eabaeed7b5d2ca234c39962a 12db8d5c35405d918fb59d16a127c33c89edc280 refs/heads/cr-6.1-caf-8998\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEl+91YgHzL/p+Csy3wT9ECw9z34oFAlsAPvYACgkQwT9ECw9z\n34o7Owf/ZCe8z1epwjKdzqDkVE4uSfz9sirhfCuVeoErW38DK4kLHgcRIOkfpr4O\nqlGS8Dr0noWsY03bkzxWJ9DP66Zx9iOCAt1IGbPXJGuZocdgyUUrXyomXAQxkIAl\nkm6/8YASJ4VCCTukkrLXui27WHZv5pcaTkjXHbwsk1oOYhB1hyKRjxNTzuMUeNno\nFVtoKsA20RqXmb/5Pvz5z5wlaL0v6Sck2woA9Xv5OpGsYTqy5rs3OPijRb1/gVbS\n0yipeWOivAur5LKpch3ld2kje+EJm/FRPbqYbgeF3mjjh9BNxblzF+Vvi99qM9d8\nGX7DisnG/samG62pzaqdFIqJCFR0WA\u003d\u003d\n\u003ds+24\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
